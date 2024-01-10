@@ -1,1 +1,1 @@
-# myVSCodeSettings
+This repo contains all my setings and snippets for every language.
