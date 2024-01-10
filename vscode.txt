@@ -1,0 +1,1 @@
+search @modified in settings to get all changed settings of vscode
